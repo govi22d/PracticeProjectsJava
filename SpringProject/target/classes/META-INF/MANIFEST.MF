@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: raj_d
+Build-Jdk: 14.0.1
+Implementation-Title: SpringProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
