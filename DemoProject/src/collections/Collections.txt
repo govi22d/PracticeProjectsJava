@@ -1,0 +1,29 @@
+Collections:
+
+- Set
+- List
+- Queue
+- Map
+
+Set - no duplicate
+- TreeSet
+- SortedSet
+- HashSet
+- LinkedHashSet
+
+List - stores ordered collection of elements
+- Vector
+- ArrayList
+- LinkedList
+- Stack
+
+Queue - stores/process FIFO order
+- PriorityQueue
+- Deque
+- Queue
+ - ArrayDQueue
+Map
+- SortedMap
+	-TreeMap
+- HashMap
+- LinkedHashMap
